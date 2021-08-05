@@ -1,0 +1,6 @@
+#EXTM3U
+#PLAYLISTV: pltv-logo="https://i.imgur.com/2UmnoH0.png" pltv-name="## IPTV-RP ##" pltv-description="IPTV Atualizada & 24 Hrs. 17-981097657" pltv-cover="https://i.imgur.com/K0diELV.png" pltv-author="MTsRp" pltv-site="Breve..." pltv-email="mts2014@hotmail.com"
+
+############################# CANAIS ABERTOS 08/2021 #############################
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP INTERIOR" tvg-logo="https://i.imgur.com/OUWJ2yQ.png" group-title="Canais Abertos", SBT SP INTERIOR
+https://5a1c76baf08c0.streamlock.net/sbtinterior/9es5iant7pv90gyc1jbalgky23l4bpxh/chunklist_w1582883570.m3u8
